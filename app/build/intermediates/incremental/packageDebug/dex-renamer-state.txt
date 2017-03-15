@@ -1,4 +1,7 @@
-#Wed Mar 15 19:15:36 GMT 2017
-base.0=C\:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Wed Mar 15 20:23:55 GMT 2017
+base.0=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8b939d8ce3c515ecf50715c23f12fdb5b1a5452a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a699c0a1f5ec60d724ed0bb8fe894139c8e86211\\classes.dex
+base.1=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a699c0a1f5ec60d724ed0bb8fe894139c8e86211
+file.0=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8b939d8ce3c515ecf50715c23f12fdb5b1a5452a\\classes.dex

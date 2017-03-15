@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Zel\\.android\\build-cache\\da0f149010f45b3ae42f1240032489d25e47d41b\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "C:\\Users\\darre\\.android\\build-cache\\b74f6d9881f95ac5969b2d674d234249a97015a9\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\Anna's RoG Laptop\\.android\\build-cache\\cbb34efcccb94ba6340d0da6f7678e16311110e4\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -71,6 +71,8 @@ public class MainActivity extends AppCompatActivity{
 
     private void settingsPage(){
         setTitle("Settings");
+        Intent intent = new Intent(MainActivity.this, SettingsActivity.class);
+        startActivity(intent);
     } // Controls when 'settings' is clicked
 
     private void notificationsPage(){

@@ -1,4 +1,0 @@
-#Wed Mar 15 17:24:23 GMT 2017
-base.0=D\:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
-renamed.0=classes.dex
-file.0=D\:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/settings_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.zel.dashboardnew.SettingsActivity">
+
+    <Switch
+        android:text="Notifications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/NotifSwitch"
+        android:textSize="20sp"
+        android:checked="false"
+        tools:onClick="onCheckedChanged"
+        android:layout_alignParentTop="true"/>
+
+    <TextView
+        android:text="Clear account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Clear_text"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/NotifSwitch"
+        android:layout_marginTop="36dp"
+        android:onClick="onClick" />
+
+    <TextView
+        android:text="Sign out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Sign_Out_text"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="39dp"
+        android:layout_below="@+id/Clear_text" />
+
+</RelativeLayout>
