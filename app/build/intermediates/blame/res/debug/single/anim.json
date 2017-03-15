@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
@@ -12,8 +16,24 @@
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -24,6 +44,14 @@
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_popup_exit.xml"
     },
@@ -32,8 +60,20 @@
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",

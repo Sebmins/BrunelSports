@@ -1,6 +1,7 @@
 package com.example.zel.dashboardnew;
 
 import android.app.ListActivity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
@@ -57,9 +58,9 @@ public class MainActivity extends AppCompatActivity{
 
                 break;
 
-            case R.id.toolbar:
+            case R.id.action_search:
 
-                searchPage();
+               searchPage();
 
                 break;
         }
@@ -78,6 +79,10 @@ public class MainActivity extends AppCompatActivity{
 
     private void searchPage(){
         setTitle("Search");
+
+        Intent intent = new Intent(MainActivity.this, searchActivity.class);
+        startActivity(intent); //Creating a new activity when the search button is clicked
+
     } // Controls what happens when 'Search' is clicked
 
 // --------------------------- ABOVE CONTROLS THE MENU BAR, LINK ALL PAGES ABOVE ----------------------------------------------

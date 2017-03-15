@@ -1,91 +1,103 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:7:5-30:19
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Zel\.android\build-cache\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Zel\.android\build-cache\635879c7fdf6b5f96b09b0ea42751edd8c035abb\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Zel\.android\build-cache\876dd13bec56e96c60dcda7ff6df8a3aa10cead2\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Zel\.android\build-cache\2972f25121210df1df79963ad22419e03369c045\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Zel\.android\build-cache\a561e4ff62c85ffa8ac3d5f8e1de52ae10a96f4e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Zel\.android\build-cache\7a48a832f53a1f0533a0b38e6413c5efe122ba72\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Zel\.android\build-cache\8ecdee5a1317e465eaf7862d3bb1364a2a2df976\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Zel\.android\build-cache\69186604ff7015bad903ab28212d6b156a6199f6\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Zel\.android\build-cache\3cdd813f9472f78d7edecef0f1f1200795addd1a\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zel\.android\build-cache\fe7eb987fbe58d49eaeb735952d24884c9490b15\output\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:7:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\darre\.android\build-cache\8d61b9f081a056090acf44ed62a7a9db934b9e10\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\darre\.android\build-cache\fa953de7a01dad571fd971c87e6d9e064ead3f81\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\darre\.android\build-cache\f9f3e148d6e7ef9cb80c6b3615079ee6f6972b25\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\darre\.android\build-cache\6eef6ba1b2d5ca82fba9d0ab9d30a9e0fb8553e1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\darre\.android\build-cache\1d466757f2013eee15dd1d7f755a34c6bef634e1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\darre\.android\build-cache\9247719fc4eaf92e3779bb0d5f024991fa48263c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\darre\.android\build-cache\84813c32b8fb32767205838aa8b2fa67f13f1c59\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\darre\.android\build-cache\8b8c4a91107f4e4a16edf020d9f936fa2c0a5de7\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\darre\.android\build-cache\d88a43ecb62a8d326cc1d997bacd0f9d2c5772dc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darre\.android\build-cache\329c2a3f318d03fd78949e4651daadcc98261bbd\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.example.zel.dashboardnew.MainActivity
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:15:9-20:20
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:15:9-20:20
 	android:name
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:15:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:16:13-19:29
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:16:13-19:29
 action#android.intent.action.MAIN
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.zel.dashboardnew.webViewClass
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:23:9-28:20
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:23:9-28:20
 	android:name
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:23:19-47
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:23:19-47
 intent-filter#android.intent.action.WEBVIEWCLASS+android.intent.category.DEFAULT
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:24:13-27:29
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.WEBVIEWCLASS
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:25:25-74
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:25:25-74
 category#android.intent.category.DEFAULT
-ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:26:17-76
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:26:17-76
 	android:name
-		ADDED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml:26:27-73
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:26:27-73
+activity#com.example.zel.dashboardnew.searchActivity
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:31:13-43
+intent-filter#android.intent.action.SEARCH+android.intent.category.LAUNCHER
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:35:17-71
+	android:name
+		ADDED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml:35:25-68
 uses-sdk
-INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Zel\.android\build-cache\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Zel\.android\build-cache\635879c7fdf6b5f96b09b0ea42751edd8c035abb\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Zel\.android\build-cache\876dd13bec56e96c60dcda7ff6df8a3aa10cead2\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Zel\.android\build-cache\2972f25121210df1df79963ad22419e03369c045\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Zel\.android\build-cache\a561e4ff62c85ffa8ac3d5f8e1de52ae10a96f4e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Zel\.android\build-cache\7a48a832f53a1f0533a0b38e6413c5efe122ba72\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Zel\.android\build-cache\8ecdee5a1317e465eaf7862d3bb1364a2a2df976\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Zel\.android\build-cache\69186604ff7015bad903ab28212d6b156a6199f6\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Zel\.android\build-cache\3cdd813f9472f78d7edecef0f1f1200795addd1a\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zel\.android\build-cache\fe7eb987fbe58d49eaeb735952d24884c9490b15\output\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\darre\.android\build-cache\8d61b9f081a056090acf44ed62a7a9db934b9e10\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\darre\.android\build-cache\fa953de7a01dad571fd971c87e6d9e064ead3f81\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\darre\.android\build-cache\f9f3e148d6e7ef9cb80c6b3615079ee6f6972b25\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\darre\.android\build-cache\6eef6ba1b2d5ca82fba9d0ab9d30a9e0fb8553e1\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\darre\.android\build-cache\1d466757f2013eee15dd1d7f755a34c6bef634e1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\darre\.android\build-cache\9247719fc4eaf92e3779bb0d5f024991fa48263c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\darre\.android\build-cache\84813c32b8fb32767205838aa8b2fa67f13f1c59\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\darre\.android\build-cache\8b8c4a91107f4e4a16edf020d9f936fa2c0a5de7\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\darre\.android\build-cache\d88a43ecb62a8d326cc1d997bacd0f9d2c5772dc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darre\.android\build-cache\329c2a3f318d03fd78949e4651daadcc98261bbd\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Zel\.android\build-cache\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\darre\.android\build-cache\8d61b9f081a056090acf44ed62a7a9db934b9e10\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android Projects\DashboardNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darre\Desktop\BrunelSports\app\src\main\AndroidManifest.xml

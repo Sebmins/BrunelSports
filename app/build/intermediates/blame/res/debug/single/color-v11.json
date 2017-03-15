@@ -4,7 +4,15 @@
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\darre\\.android\\build-cache\\8d61b9f081a056090acf44ed62a7a9db934b9e10\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

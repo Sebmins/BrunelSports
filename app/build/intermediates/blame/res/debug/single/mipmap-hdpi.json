@@ -4,6 +4,14 @@
         "source": "D:\\Android Projects\\DashboardNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
         "source": "D:\\Android Projects\\DashboardNew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     }

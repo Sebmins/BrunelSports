@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\darre\\Desktop\\BrunelSports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
         "source": "D:\\Android Projects\\DashboardNew\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
