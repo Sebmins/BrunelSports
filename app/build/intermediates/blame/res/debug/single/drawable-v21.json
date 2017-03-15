@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\DashboardNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Zel\\.android\\build-cache\\bf82ef4eba8e88b9f7437ff7d057baa75adb8bfe\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
