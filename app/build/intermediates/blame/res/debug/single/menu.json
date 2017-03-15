@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_actions.xml",
-        "source": "C:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\src\\main\\res\\menu\\activity_main_actions.xml"
+        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\menu\\web_view_actions.xml",
+        "source": "D:\\Android Projects\\BrunelSports\\app\\src\\main\\res\\menu\\web_view_actions.xml"
     },
     {
-        "merged": "C:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\menu\\web_view_actions.xml",
-        "source": "C:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\src\\main\\res\\menu\\web_view_actions.xml"
+        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_actions.xml",
+        "source": "D:\\Android Projects\\BrunelSports\\app\\src\\main\\res\\menu\\activity_main_actions.xml"
     }
 ]

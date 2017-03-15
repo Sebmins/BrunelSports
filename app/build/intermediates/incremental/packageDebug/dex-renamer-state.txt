@@ -1,7 +1,7 @@
-#Wed Mar 15 20:23:55 GMT 2017
-base.0=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8b939d8ce3c515ecf50715c23f12fdb5b1a5452a
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a699c0a1f5ec60d724ed0bb8fe894139c8e86211\\classes.dex
-base.1=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a699c0a1f5ec60d724ed0bb8fe894139c8e86211
-file.0=C\:\\Users\\Anna's RoG Laptop\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8b939d8ce3c515ecf50715c23f12fdb5b1a5452a\\classes.dex
+#Wed Mar 15 23:17:42 GMT 2017
+base.0=D\:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_35871492952c0c77b1baa9b729924f1c6a8b8cc1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9fdec00c1fb24919e096861e1925df673fa03353\\classes.dex
+base.1=D\:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9fdec00c1fb24919e096861e1925df673fa03353
+file.0=D\:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_35871492952c0c77b1baa9b729924f1c6a8b8cc1\\classes.dex

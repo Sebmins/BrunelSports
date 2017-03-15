@@ -7,7 +7,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.TextView;
+
+import static com.example.zel.dashboardnew.webViewClass.link;
 
 
 public class MainActivity extends AppCompatActivity{
@@ -19,6 +23,64 @@ public class MainActivity extends AppCompatActivity{
         setContentView(R.layout.activity_main);
 
         setTitle("Home");
+
+        TextView football, cali, cricket, mma, boxing;
+
+        football = (TextView) findViewById(R.id.Football);
+        cali = (TextView) findViewById(R.id.Calisthenics);
+        cricket = (TextView) findViewById(R.id.Cricket);
+        mma = (TextView) findViewById(R.id.MMA);
+        boxing = (TextView) findViewById(R.id.Boxing);
+
+        football.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                link = "https://brunelstudents.com/sportsclubs/football/";
+                Intent intent = new Intent(MainActivity.this, webViewClass.class);
+                startActivity(intent);
+            }
+        });
+
+        cali.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                link = "https://brunelstudents.com/sportsclubs/BrunelCalisthenics/";
+                Intent intent = new Intent(MainActivity.this, webViewClass.class);
+                startActivity(intent);
+            }
+        });
+
+        cricket.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                link = "https://brunelstudents.com/sportsclubs/MensCricket/";
+                Intent intent = new Intent(MainActivity.this, webViewClass.class);
+                startActivity(intent);
+            }
+        });
+
+        mma.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                link = "https://brunelstudents.com/sportsclubs/MixedMartialArts/";
+                Intent intent = new Intent(MainActivity.this, webViewClass.class);
+                startActivity(intent);
+            }
+        });
+
+
+        boxing.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                link = "https://brunelstudents.com/sportsclubs/Boxing/";
+                Intent intent = new Intent(MainActivity.this, webViewClass.class);
+                startActivity(intent);
+            }
+        });
 
 
 
@@ -88,6 +150,11 @@ public class MainActivity extends AppCompatActivity{
     } // Controls what happens when 'Search' is clicked
 
 // --------------------------- ABOVE CONTROLS THE MENU BAR, LINK ALL PAGES ABOVE ----------------------------------------------
+
+
+    //android:clickable="true"
+
+
 
 
 }

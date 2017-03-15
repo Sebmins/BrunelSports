@@ -15,10 +15,9 @@ public class webViewClass extends AppCompatActivity {
 
     static int currentPosition;
 
-    String[] urlNames = {"https://brunelstudents.com/sportsclubs/BrunelCalisthenics/",
-            "https://brunelstudents.com/sportsclubs/MixedMartialArts/"};
+    public static String link = "https://brunelstudents.com/sportsclubs/football/";
 
-    String[] sportsName = {"Calisthenics", "MMA"};
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,11 +26,13 @@ public class webViewClass extends AppCompatActivity {
 
 
         WebView myWebView = (WebView) findViewById(R.id.webview);
+
         WebSettings webSettings = myWebView.getSettings();
+
         webSettings.setJavaScriptEnabled(true);
 
-        myWebView.loadUrl(urlNames[currentPosition]);
-        setTitle(sportsName[currentPosition]);
+        myWebView.loadUrl(link);
+
 
 
     }
