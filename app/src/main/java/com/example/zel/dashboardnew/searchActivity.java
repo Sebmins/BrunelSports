@@ -31,7 +31,7 @@ public class searchActivity  extends AppCompatActivity {
 
         listView = (ListView)findViewById(R.id.listview);
         editText = (EditText)findViewById(R.id.txtsearch);
-        //initList();//When search button is clicked it will display the dummy data
+        initList();//When search button is clicked it will display the dummy data
 
         editText.addTextChangedListener(new TextWatcher() {
             @Override
@@ -64,9 +64,9 @@ public class searchActivity  extends AppCompatActivity {
     //Created a method for dummy data
     public void initList(){
 
-
-        items = new String[]{"Baseball", "Calisthenics", "Cricket", "Football"
-                , "Rugby", "NFL"};
+    //Adding the dummy data into a String Array
+        items = new String[]{"Football", "Cricket", "MMA", "Calisthenics"
+                , "Boxing"};
 
 
         //This displays the items in the String array into a list view
@@ -76,11 +76,13 @@ public class searchActivity  extends AppCompatActivity {
 
     }
 
+    //This method helps perform the search to happen
     public void searchItem(String textToSearch){
 
         for(String item:items){
             if(!item.contains(textToSearch)){
-                listitems.remove(item);
+                listitems.remove(item); //When the user types it will narrow the list down and removes the rest of the item
+                                        //until the word is removed then the list is reset
             }
         }
         adapter.notifyDataSetChanged();
