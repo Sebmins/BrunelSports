@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Zel\\.android\\build-cache\\8481987eb19555361161b8b4a9ad7295d47c9dcc\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "D:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Seb\\.android\\build-cache\\54f53ff3b1dd321caf7efb7f63e483294249a8e0\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Zel\\.android\\build-cache\\8481987eb19555361161b8b4a9ad7295d47c9dcc\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "D:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Seb\\.android\\build-cache\\54f53ff3b1dd321caf7efb7f63e483294249a8e0\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Zel\\.android\\build-cache\\8481987eb19555361161b8b4a9ad7295d47c9dcc\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "D:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Seb\\.android\\build-cache\\54f53ff3b1dd321caf7efb7f63e483294249a8e0\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Zel\\.android\\build-cache\\8481987eb19555361161b8b4a9ad7295d47c9dcc\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "D:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Seb\\.android\\build-cache\\54f53ff3b1dd321caf7efb7f63e483294249a8e0\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Zel\\.android\\build-cache\\8481987eb19555361161b8b4a9ad7295d47c9dcc\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "D:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Seb\\.android\\build-cache\\54f53ff3b1dd321caf7efb7f63e483294249a8e0\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "D:\\Android Projects\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Zel\\.android\\build-cache\\8481987eb19555361161b8b4a9ad7295d47c9dcc\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "D:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Seb\\.android\\build-cache\\54f53ff3b1dd321caf7efb7f63e483294249a8e0\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -3,102 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\cb1cab6c33c69d7749ee36daf49fb209143175a4\output\jars\classes.jar"
+        jar="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_390245ebdc8bf0aab8e7c8df002c8d44464bb0e3\classes.dex" />
+        sha1="dca6658796215208c4638e07702eb06eccf4e05c">
+        <dex dex="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_82e30813dbc043704907e28d5fef86f6812e5d35\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\8b8053665903553c9eac121e052f7e9eec4516f1\output\jars\classes.jar"
+        jar="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81f1ae8077636e3a46142cc46882d673efa798d9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\8481987eb19555361161b8b4a9ad7295d47c9dcc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4159d3e6d47a167121b7587e8b7cf51a8efc7d31\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\04bd6c67d0eb3ea0b788e6921b8f36d177158250\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fae86a8be52ac11b5b7f2f9fa10d9216accc6cfb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android Projects\BrunelSports\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3c9d4d71c1fef09d87c5cc928c26e4998809bbf4">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_35871492952c0c77b1baa9b729924f1c6a8b8cc1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\7f990eab788e6b569f71fe8a6854b61cf4347a94\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22516aebdad69312e64845a9af02c3f020e4ea29\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\06854c1e695fbbc5a919bb9755725582664011d1\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_513d036c170b543aff13dacf62320e45221cffa5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\a73a7a960eaabd3fe6ecf83508a422c6de521b16\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64bec1b74e7e389c92a37a514f382896aa2cfa75\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\4d610f7490e84994cec3b1c055015de7f8860cd4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7e02f5f4f80171843b1ac0755f2eff7a6e4cae9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android Projects\BrunelSports\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9fdec00c1fb24919e096861e1925df673fa03353\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Zel\.android\build-cache\2d733efa4ab41697263bc4ddcc80da07f63efd91\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="D:\Android Projects\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b24bf92cd1a73b0081b205d64c95776ca0ab312\classes.dex" />
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f4d6b0a515773c2c25cc00aa9e96a466edeea7d1\classes.dex" />
     </item>
 
 </items>

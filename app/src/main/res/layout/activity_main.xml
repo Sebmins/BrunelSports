@@ -1,75 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.zel.dashboardnew.MainActivity">
 
-    <ListView
-        android:layout_width="368dp"
-        android:layout_height="551dp"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="0dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
 
-    <RelativeLayout
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:background="#00325b"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="309dp">
+        <?xml version="1.0" encoding="UTF-8"?>
+
+        <RelativeLayout tools:context="com.sebmins.calendar.MainActivity" android:paddingTop="0dp" android:paddingRight="0dp" android:paddingLeft="0dp" android:paddingBottom="0dp"
+            android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/activity_main" xmlns:tools="http://schemas.android.com/tools"
+            xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+            compactCalendarShouldSelectFirstDayOfMonthOnScroll = true;
+
+            <LinearLayout android:layout_height="match_parent" android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:weightSum="1"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true">
+
+                <TextView
+                    android:text="Date"
+                    android:textSize="20dp"
+                    android:textColor="@color/colorBlackText"
+                    android:layout_gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/calendarDate"
+                    android:gravity="center_horizontal"/>
+
+                <com.github.sundeepk.compactcalendarview.CompactCalendarView
+                    android:paddingRight="10dp"
+                    android:paddingLeft="10dp"
+                    android:layout_height="201dp"
+                    android:layout_width="fill_parent"
+                    android:id="@+id/compactcalendar_view"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    app:compactCalendarMultiEventIndicatorColor="#ff0051"
+                    app:compactCalendarCurrentDayBackgroundColor="#001c74b7"
+                    app:compactCalendarCurrentSelectedDayBackgroundColor="#fde061"
+                    app:compactCalendarTextColor="#212121"
+                    app:compactCalendarBackgroundColor="#00e1e1e1"
+                    app:compactCalendarTextSize="12sp"
+                    app:compactCalendarTargetHeight="250dp"
+                    app:compactCalendarShouldSelectFirstDayOfMonthOnScroll="false"
+                    android:layout_weight="0.09" />
 
 
-        <ImageButton
-        android:id="@+id/imageButton1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@android:drawable/btn_star_big_on"
-        android:layout_alignRight="@+id/Football"
-        android:layout_alignParentEnd="true"
-        android:paddingRight="0dp"/>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="114dp"
+                    android:weightSum="1"
+                    android:background="@color/colorPrimaryDark">
 
-        <ImageButton
-            android:id="@+id/imageButton2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:drawable/btn_star_big_on"
-            android:layout_alignRight="@+id/Cricket"
-            android:layout_alignParentEnd="true"
-            android:layout_below="@id/Football"
-            android:paddingRight="0dp"/>
+                    <TextView
+                        android:text="Today"
+                        android:textSize="17dp"
+                        android:textColor="@color/colorWhiteText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/dateText"
+                        android:background="@color/colorPrimaryDark"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginLeft="4dp"/>
 
-        <ImageButton
-            android:id="@+id/imageButton3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:drawable/btn_star_big_on"
-            android:layout_alignRight="@+id/MMA"
-            android:layout_below="@id/Cricket"
-            android:layout_alignParentEnd="true"
-            android:paddingRight="0dp"/>
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="90dp"
+                        android:background="@color/colorPrimaryDark"
+                        android:layout_marginTop="0dp">
 
-        <ImageButton
-            android:id="@+id/imageButton4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:drawable/btn_star_big_on"
-            android:layout_alignRight="@+id/Calisthenics"
-            android:layout_below="@id/MMA"
-            android:layout_alignParentEnd="true"
-            android:paddingRight="0dp"/>
+                        <!--<ScrollView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_weight="1">-->
 
-        <ImageButton
-            android:id="@+id/imageButton5"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:drawable/btn_star_big_on"
-            android:layout_alignRight="@+id/Boxing"
-            android:layout_below="@id/Calisthenics"
-            android:layout_alignParentEnd="true"
-            android:paddingRight="0dp"/>
+                        <TextView
+                            android:text=""
+                            android:layout_width="33dp"
+                            android:layout_height="match_parent"
+                            android:id="@+id/colourText"
+                            android:gravity="right"/>
 
-        <TextView
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_margin="0dp">
+
+                            <TextView android:layout_height="68dp" android:layout_width="247dp"
+                                android:id="@+id/event1text" android:textColor="@color/colorWhiteText"
+                                android:ems="10" android:text="" android:inputType="textPersonName"
+                                android:maxLines="10" android:layout_marginTop="2dp"/>
+                        </LinearLayout>
+                        <!--</ScrollView>-->
+
+                        <TextView
+                            android:layout_height="match_parent" android:layout_width="84dp"
+                            android:id="@+id/eventTime1text" android:textColor="@color/colorWhiteText"
+                            android:ems="10" android:text="" android:inputType="textPersonName" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:layout_editor_absoluteY="0dp"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00325b"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="309dp">
+
+
+            <ImageButton
+                android:id="@+id/imageButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/btn_star_big_on"
+                android:layout_alignRight="@+id/Football"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="0dp"/>
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/btn_star_big_on"
+                android:layout_alignRight="@+id/Cricket"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@id/Football"
+                android:paddingRight="0dp"/>
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/btn_star_big_on"
+                android:layout_alignRight="@+id/MMA"
+                android:layout_below="@id/Cricket"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="0dp"/>
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/btn_star_big_on"
+                android:layout_alignRight="@+id/Calisthenics"
+                android:layout_below="@id/MMA"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="0dp"/>
+
+            <ImageButton
+                android:id="@+id/imageButton5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/btn_star_big_on"
+                android:layout_alignRight="@+id/Boxing"
+                android:layout_below="@id/Calisthenics"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="0dp"/>
+
+            <TextView
                 android:id="@+id/Football"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -133,6 +250,7 @@
                 />
 
 
-    </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
