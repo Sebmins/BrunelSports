@@ -1,0 +1,47 @@
+[33mcommit 3a031ca01f3efd8f73fb87eeaaf458430efbc4e8[m
+Author: sebmins <sebmin@btinternet.com>
+Date:   Thu Mar 16 02:00:33 2017 +0000
+
+    plz work
+
+[33mcommit 816c49b539d72cba96aff74893554cac3366bf12[m
+Author: Zel <1510035@my.brunel.ac.uk>
+Date:   Wed Mar 15 23:28:33 2017 +0000
+
+    Added the fav societies with description pages
+
+[33mcommit e6ae76ad241d76ee8c4643fb6786f9db736e40ea[m
+Author: Anna's RoG Laptop <Anna's RoG Laptop>
+Date:   Wed Mar 15 20:30:50 2017 +0000
+
+    adding the settings page to the dashboard
+
+[33mcommit 66197784d097f52adb23bdab4bdc168af3d90cab[m
+Author: Darren Jayasinghe <Darren Jayasinghe>
+Date:   Wed Mar 15 19:18:17 2017 +0000
+
+    Added test/dummy data for the search page
+
+[33mcommit 32d6eec3d505a29373683ed491fe37e36c0d148f[m
+Author: Darren Jayasinghe <Darren Jayasinghe>
+Date:   Wed Mar 15 19:12:37 2017 +0000
+
+    Added a general search page for the app
+
+[33mcommit d045736c006f58923435926904e4507b42d4d8fc[m
+Author: Zel <1510035@my.brunel.ac.uk>
+Date:   Wed Mar 15 18:26:43 2017 +0000
+
+    Added dashboard
+
+[33mcommit 70c46091d191159b014601179ea79edc633ff481[m
+Author: Zel <1510035@my.brunel.ac.uk>
+Date:   Wed Mar 15 18:01:59 2017 +0000
+
+    Added an empty dashboard for the foundation of the app
+
+[33mcommit ba96cf2cbade579e45170fb3bdc85cb1e9ea5af0[m
+Author: 1510035 <1510035@my.brunel.ac.uk>
+Date:   Wed Mar 15 12:18:12 2017 +0000
+
+    Initial commit
