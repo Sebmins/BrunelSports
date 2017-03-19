@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="compact-calendar-view-2.0.1">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/1fb1260dec8f10eb90f549ea1ccd40b904364a51/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/1fb1260dec8f10eb90f549ea1ccd40b904364a51/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0a5aba5e68fcf0e68605a5c99f81ba4b73143bb3/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0a5aba5e68fcf0e68605a5c99f81ba4b73143bb3/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

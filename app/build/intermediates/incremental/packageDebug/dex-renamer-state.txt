@@ -1,7 +1,4 @@
-#Thu Mar 16 01:11:30 GMT 2017
-base.0=D\:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f4d6b0a515773c2c25cc00aa9e96a466edeea7d1
-renamed.1=classes2.dex
+#Sun Mar 19 19:08:02 GMT 2017
+base.0=C\:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=D\:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_82e30813dbc043704907e28d5fef86f6812e5d35\\classes.dex
-base.1=D\:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_82e30813dbc043704907e28d5fef86f6812e5d35
-file.0=D\:\\Users\\Seb\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f4d6b0a515773c2c25cc00aa9e96a466edeea7d1\\classes.dex
+file.0=C\:\\Users\\darre\\Desktop\\BrunelSports\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

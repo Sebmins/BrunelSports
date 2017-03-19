@@ -2,22 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\darre\.android\build-cache\0a5aba5e68fcf0e68605a5c99f81ba4b73143bb3\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="dca6658796215208c4638e07702eb06eccf4e05c">
-        <dex dex="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_82e30813dbc043704907e28d5fef86f6812e5d35\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="D:\Users\Seb\Desktop\BrunelSports\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f4d6b0a515773c2c25cc00aa9e96a466edeea7d1\classes.dex" />
+        sha1="6eb0873de835cb19b11f63a50e097497a10c849d">
+        <dex dex="C:\Users\darre\Desktop\BrunelSports\app\build\intermediates\pre-dexed\debug\classes_ca4a9deb831badd2c1dc5fd9db6d508dcf28d80c.jar" />
     </item>
 
 </items>
