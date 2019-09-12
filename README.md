@@ -1,7 +1,7 @@
 # Brunel Sports – A timetabling app for Brunel sport societies
 
 This was a 6-month group project, to develop a data driven application that isn’t already created and has non-trivial functionality.
-I wrote up a diary/report of all my work for this project. This is a short summary of the report as it is very extensive, the report can be viewed on GitHub [report](#Report).
+I wrote up a diary/report of all my work for this project. This is a short summary of the report as it is very extensive, the [report can be viewed on GitHub](#Report).
 
 ## Table of Contents
 
