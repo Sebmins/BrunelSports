@@ -3,6 +3,7 @@
 This was a 6-month group project, to develop a data driven application that isn’t already created and has non-trivial functionality.
 I wrote up a diary/report of all my work for this project. This is a short summary of the report as it is very extensive, the [report can be viewed on GitHub](#Report).
 
+<img src="Resources/BrunelSports.gif" alt="">
 ## Table of Contents
 
 * [App Concept](#App-Concept)
